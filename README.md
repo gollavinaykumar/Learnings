@@ -14,6 +14,8 @@ Comprehensive learning materials for multiple programming languages with structu
 - **[Go (Golang)](./languages/go-lang/)** - Concurrency, microservices, and distributed systems
 - **[Java](./languages/java/)** - OOP, enterprise patterns, and JVM internals
 - **[JavaScript](./languages/javascript/)** - Web development, Node.js, and performance optimization
+- **[C](./languages/c/)** - Systems programming and low-level concepts
+- **[Rust](./languages/rust/)** - Performance-focused systems programming
 
 **What to expect:**
 - Core concepts and fundamentals
@@ -23,6 +25,29 @@ Comprehensive learning materials for multiple programming languages with structu
 - Real-world best practices
 
 [👉 Explore Languages](./languages/)
+
+---
+
+### 🗄️ [Databases](./databases/)
+
+Hands-on learning for relational databases, SQL, and database internals from the basics to production scaling.
+
+**Included Track:**
+- **[SQL Mastery](./databases/sql/README.md)** - SQL fundamentals, joins, transactions, indexing, optimization, and database architecture
+
+**Core SQL Modules:**
+- **[Module 1 - 12](./databases/sql/Module%201%20-%2012/)** - Database fundamentals, SQL basics, filtering, joins, aggregation, and subqueries
+- **[Module 13](./databases/sql/Module-13/README.md)** - Data modification and transactions
+- **[Module 14](./databases/sql/Module-14%20/README.md)** - Advanced SQL concepts and database internals
+- **[Module 15](./databases/sql/Module-15/README.md)** - Indexes and query performance
+- **[Module 16](./databases/sql/Module-16/README.md)** - Concurrency, isolation, and MVCC
+- **[Module 17](./databases/sql/Module-17/README.md)** - WAL, logging, and recovery
+- **[Module 18](./databases/sql/Module-18/README.md)** - Partitioning and scaling strategies
+- **[Module 19](./databases/sql/Module-19/README.md)** - Replication and resilience
+- **[Module 20](./databases/sql/Module-20/README.md)** - High availability and production database systems
+- **[Module 21](./databases/sql/Module-21/README.md)** - Database scaling and architecture
+
+[👉 Explore Databases](./databases/)
 
 ---
 
@@ -41,35 +66,33 @@ Infrastructure, deployment, containerization, and system operations knowledge.
 
 ---
 
-### 🏗️ [System Design](./system_design/)
+### 🖧 [Linux Kernel & Networking](./Linux%20Kernel%20&%20Networking/)
 
-Large-scale system architecture, scalability patterns, and distributed systems design.
+Kernel internals, systems programming, networking fundamentals, and low-level operating system concepts.
 
 **Topics Include:**
-- System design fundamentals
-- Scalability patterns
-- Load balancing and caching
-- Database design
-- Microservices architecture
-- High availability and fault tolerance
+- Linux internals
+- Networking and sockets
+- Process and memory management
+- System calls and performance
+- Operating system design
 
-[👉 Explore System Design](./system_design/)
+[👉 Explore Linux Kernel & Networking](./Linux%20Kernel%20&%20Networking/)
 
 ---
 
-### 🤖 [Machine Learning](./machine_learning/)
+### 🏗️ [Software Architecture Patterns](./Software_Architecture_Patterns/)
 
-Machine learning concepts, algorithms, and practical implementations.
+Architecture patterns, design principles, and scalable system design best practices.
 
 **Topics Include:**
-- ML fundamentals
-- Supervised and unsupervised learning
-- Deep learning
-- Neural networks
-- Model optimization
-- Real-world applications
+- Monolith vs microservices
+- Event-driven systems
+- Reliability and resilience
+- Service decomposition
+- Design tradeoffs
 
-[👉 Explore Machine Learning](./machine_learning/)
+[👉 Explore Architecture Patterns](./Software_Architecture_Patterns/)
 
 ---
 
@@ -95,9 +118,10 @@ Fundamentals → Core Concepts → Advanced Topics → System Design → DevOps/
 | Go Programming | [languages/go-lang/](./languages/go-lang/) | Beginner → Advanced |
 | Java Programming | [languages/java/](./languages/java/) | Beginner → Advanced |
 | JavaScript/Node.js | [languages/javascript/](./languages/javascript/) | Beginner → Advanced |
-| System Design | [system_design/](./system_design/) | Intermediate → Advanced |
+| SQL & Databases | [databases/sql/README.md](./databases/sql/README.md) | Beginner → Advanced |
 | DevOps | [devops/](./devops/) | Intermediate → Advanced |
-| Machine Learning | [machine_learning/](./machine_learning/) | Beginner → Advanced |
+| Linux Kernel & Networking | [Linux Kernel & Networking/](./Linux%20Kernel%20&%20Networking/) | Intermediate → Advanced |
+| Software Architecture | [Software_Architecture_Patterns/](./Software_Architecture_Patterns/) | Intermediate → Advanced |
 
 ---
 
